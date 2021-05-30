@@ -1,0 +1,6 @@
+{
+    "dbhost": "mobiezydb.chxnmfuwuf2i.ap-south-1.rds.amazonaws.com",
+    "dbuser": "aws_dev",
+    "dbpassword": "dev_aws",
+    "dbname": "mobicable_prod"
+}
